@@ -196,9 +196,3 @@ ggplot(banco_mundial)+
   guides(fill = guide_legend(override.aes = list(size=4)), size=FALSE)+
   theme(legend.position = "bottom")
 
-
-
-
-#### Dashboard
-
-# Em outro script
